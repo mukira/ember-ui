@@ -94,7 +94,7 @@ a.btn.fb-button-primary,
 a.btn.btn-primary,
 .fc-button.btn-primary,
 .ui-full-calendar .fc-button.btn-primary {
-    @apply text-white bg-sky-500 border-sky-500 shadow;
+    @apply text-white bg-green-500 border-green-500 shadow;
 }
 
 .btn.fb-button-primary:hover:not(:disabled),
@@ -105,7 +105,7 @@ a.btn.fb-button-primary:hover:not(:disabled),
 a.btn.btn-primary:hover:not(:disabled),
 .fc-button.btn-primary:hover:not(:disabled),
 .ui-full-calendar .fc-button.btn-primary:hover:not(:disabled) {
-    @apply bg-sky-400;
+    @apply bg-green-400;
 }
 
 .btn.fb-button-primary:focus,
@@ -116,7 +116,7 @@ a.btn.fb-button-primary:focus,
 a.btn.btn-primary:focus,
 .fc-button.btn-primary:focus,
 .ui-full-calendar .fc-button.btn-primary:focus {
-    @apply outline-0 border-sky-600;
+    @apply outline-0 border-green-600;
 }
 
 .btn.fb-button-primary:active,
@@ -127,7 +127,7 @@ a.btn.fb-button-primary:active,
 a.btn.btn-primary:active,
 .fc-button.btn-primary:active,
 .ui-full-calendar .fc-button.btn-primary:active {
-    @apply bg-sky-600;
+    @apply bg-green-600;
 }
 
 .btn.fb-button-success,

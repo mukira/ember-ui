@@ -21,7 +21,7 @@
 }
 
 .fleetbase-calendar .fleetbase-calendar-selection-header {
-    @apply bg-sky-500;
+    @apply bg-green-500;
     border-radius: 8px 8px 0px 0px;
     padding: 0.8rem 1rem;
     display: flex;

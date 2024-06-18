@@ -31,7 +31,7 @@ export default class CheckboxComponent extends Component {
      *
      * @param {String} colorClass
      */
-    @tracked colorClass = 'text-sky-500';
+    @tracked colorClass = 'text-green-500';
 
     /**
      * Toggles the checkbox and sends up an action

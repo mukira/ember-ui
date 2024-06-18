@@ -10,7 +10,7 @@ To use the Console Loading Indicator component, you can simply import it into yo
 
 ```hbs
     <WhileLoading>
-        <Spinner @iconClass="text-sky-500 fa-spin-800ms" />
+        <Spinner @iconClass="text-green-500 fa-spin-800ms" />
     </WhileLoading>
 ```
 
@@ -19,7 +19,7 @@ You can customize the Console Loading Indicator component by passing in differen
 
 | Property   | Description                                                                                    |
 |------------|------------------------------------------------------------------------------------------------|
-| `@iconClass` | The CSS class to be applied to the Spinner component. Default is "text-sky-500 fa-spin-800ms". |
+| `@iconClass` | The CSS class to be applied to the Spinner component. Default is "text-green-500 fa-spin-800ms". |
 
 
 ## Example
@@ -32,7 +32,7 @@ You can customize the Console Loading Indicator component by passing in differen
         <p>{{this.description}}</p>
         <img src={{this.imageUrl}} alt={{this.imageAlt}} />
     </div>
-    <Spinner @iconClass="text-sky-500 fa-spin-800ms" />
+    <Spinner @iconClass="text-green-500 fa-spin-800ms" />
 </WhileLoading>
     
 ```

@@ -79,7 +79,7 @@ body[data-theme='dark'] .next-drawer > .next-drawer-panel-container > .gutter {
 .next-drawer.drawer-is-resizing > .next-drawer-panel-container > .gutter,
 body[data-theme='dark'] .next-drawer > .next-drawer-panel-container > .gutter:hover,
 body[data-theme='dark'] .next-drawer.drawer-is-resizing > .next-drawer-panel-container > .gutter {
-    @apply border-sky-500 bg-opacity-75;
+    @apply border-green-500 bg-opacity-75;
 }
 
 .next-drawer > .next-drawer-panel-container > .gutter > .notch {
