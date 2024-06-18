@@ -12,7 +12,7 @@ It provides a customizable checkbox input that can be used in any Ember applicat
 | `value`     | The value of the checkbox.                                                                   |
 | `checked`   | Whether the checkbox is checked or not.                                                      |
 | `disabled`  | Whether the checkbox is disabled or not.                                                     |
-| `color`     | The color of the checkbox. Currently, the available colors are blue, green, red, and yellow. |
+| `color`     | The color of the checkbox. Currently, the available colors are green, green, red, and yellow. |
 
 
 ## Example

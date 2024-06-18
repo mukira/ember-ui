@@ -15,9 +15,9 @@
 }
 .next-table-wrapper table tbody tr td > .cell-link-list ul li a,
 .cell-link-list ul li a {
-    @apply text-blue-500 uppercase;
+    @apply text-green-500 uppercase;
 }
 .next-table-wrapper table tbody tr td > .cell-link-list ul li a:hover,
 .cell-link-list ul li a:hover {
-    @apply text-blue-400;
+    @apply text-green-400;
 }

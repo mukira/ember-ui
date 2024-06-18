@@ -39,7 +39,7 @@
 }
 
 [data-theme='dark'] .content-panel.neon {
-    @apply border-blue-800;
+    @apply border-green-800;
 }
 
 [data-theme='dark'] .content-panel > .content-panel-header {

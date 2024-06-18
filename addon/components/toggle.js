@@ -20,7 +20,7 @@ export default class ToggleComponent extends Component {
     /**
      * The active color class.
      * Defaults to `bg-green-400` but could also be:
-     * `bg-organge-400` `bg-yellow-400` `bg-red-400` `bg-blue-400`
+     * `bg-organge-400` `bg-yellow-400` `bg-red-400` `bg-green-400`
      *
      * @var {String}
      */

@@ -440,7 +440,7 @@ body[data-theme='dark'] .money-input-currency-selector + .ember-basic-dropdown-c
 body[data-theme='dark'] .country-selector + .ember-basic-dropdown-content-wormhole-origin > .ember-basic-dropdown-content .ember-power-select-search-input,
 body[data-theme='dark'] .ui-money-input .ember-basic-dropdown > .ember-basic-dropdown-trigger .ember-basic-dropdown-content .ember-power-select-search-input,
 body[data-theme='dark'] .money-input-currency-selector .ember-basic-dropdown-content .ember-power-select-search-input {
-    @apply border border-blue-900 bg-gray-900 py-1;
+    @apply border border-green-900 bg-gray-900 py-1;
 }
 
 .emberTagInput.form-input,
@@ -568,7 +568,7 @@ body[data-theme='dark'] .iti__divider {
 .fleetbase-console .form-radio[data-checked] {
     outline: 0;
     outline-offset: 0;
-    @apply bg-blue-400 shadow-sm;
+    @apply bg-green-400 shadow-sm;
 }
 
 .fleetbase-checkbox {
@@ -621,7 +621,7 @@ body[data-theme='dark'] .coordinates-input-zoom-controls > .coordinates-input-zo
 }
 
 .coordinates-input-zoom-controls > .coordinates-input-zoom-controls-container.toolbar-button.is-action:hover {
-    @apply bg-blue-500;
+    @apply bg-green-500;
 }
 
 .coordinates-input-zoom-controls > .coordinates-input-zoom-controls-container .toolbar-button:focus,
@@ -639,7 +639,7 @@ body[data-theme='light'] .coordinates-input-zoom-controls > .coordinates-input-z
 }
 
 body[data-theme='light'] .coordinates-input-zoom-controls > .coordinates-input-zoom-controls-container .toolbar-button.is-action:hover {
-    @apply bg-blue-500;
+    @apply bg-green-500;
 }
 
 body[data-theme='light'] .coordinates-input-zoom-controls > .coordinates-input-zoom-controls-container .toolbar-button.is-action:hover svg {

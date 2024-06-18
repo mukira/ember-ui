@@ -8,7 +8,7 @@ To use the UI Input Info component, you can simply import it into your Tailwind 
 
 ```hbs
 
-<div class="ui-input-info bg-opacity-{{or @opacity 100}} dark:text-blue-100" ...attributes>
+<div class="ui-input-info bg-opacity-{{or @opacity 100}} dark:text-green-100" ...attributes>
     <FaIcon @icon={{or @icon "info-circle"}} class="mr-1 {{@iconClass}}" />
     <span class="text-left {{@spanClass}}">
         {{#if (has-block)}}

@@ -406,7 +406,7 @@ body[data-theme='dark'] .overloader {
 .order-route-list.storefront:before {
     z-index: 80;
     height: 100%;
-    @apply border-blue-500;
+    @apply border-green-500;
 }
 
 .order-route-list.storefront .order-route-stop:first-child {
@@ -414,7 +414,7 @@ body[data-theme='dark'] .overloader {
 }
 
 .order-route-list.storefront .order-route-stop:first-child .order-route-stop-index .index-count {
-    @apply bg-blue-500;
+    @apply bg-green-500;
 }
 
 .order-route-list.storefront .order-route-stop:last-child {
@@ -482,15 +482,15 @@ body[data-theme='dark'] .overloader {
 }
 
 .radio-group-condensed .radio-group-item.is-checked label span:first-child {
-    @apply text-blue-900;
+    @apply text-green-900;
 }
 
 .radio-group-condensed .radio-group-item.is-checked label span:last-child {
-    @apply text-blue-700;
+    @apply text-green-700;
 }
 
 .radio-group-condensed .radio-group-item input[type='radio'] {
-    @apply h-4 w-4 text-blue-600 cursor-pointer border-gray-300;
+    @apply h-4 w-4 text-green-600 cursor-pointer border-gray-300;
 }
 
 .radio-group-condensed .radio-group-item:first-child {
@@ -511,7 +511,7 @@ body[data-theme='dark'] .radio-group-condensed .radio-group-item {
 
 body[data-theme='dark'] .radio-group-condensed .radio-group-item .ui-input-info-block .ui-input-info-block-text > span,
 body[data-theme='dark'] .radio-group-condensed .radio-group-item .ui-input-info-block .ui-input-info-block-text > p {
-    @apply text-blue-700;
+    @apply text-green-700;
 }
 
 body[data-theme='dark'] .radio-group-condensed .radio-group-item.warning .ui-input-info-block .ui-input-info-block-text > span,
@@ -533,11 +533,11 @@ body[data-theme='dark'] .radio-group-condensed .radio-group-item label span:last
 }
 
 body[data-theme='dark'] .radio-group-condensed .radio-group-item.is-checked label span:first-child {
-    @apply text-blue-200;
+    @apply text-green-200;
 }
 
 body[data-theme='dark'] .radio-group-condensed .radio-group-item.is-checked label span:last-child {
-    @apply text-blue-100;
+    @apply text-green-100;
 }
 
 body[data-theme='dark'] .radio-group-condensed .radio-group-item input[type='radio'] {
@@ -545,7 +545,7 @@ body[data-theme='dark'] .radio-group-condensed .radio-group-item input[type='rad
 }
 
 .ui-input-info-block {
-    @apply bg-blue-50 border border-blue-300 text-blue-700 p-4;
+    @apply bg-green-50 border border-green-300 text-green-700 p-4;
 }
 
 .ui-input-info-block.md {
@@ -572,7 +572,7 @@ body[data-theme='dark'] .radio-group-condensed .radio-group-item input[type='rad
 
 .ui-input-info-block .ui-input-info-block-text,
 .ui-input-info-block p {
-    @apply text-blue-900;
+    @apply text-green-900;
 }
 
 .ui-input-info-block .ui-input-info-block-text.warning span,
@@ -710,7 +710,7 @@ body[data-theme='dark'] .radio-group-condensed .radio-group-item input[type='rad
 
 .activity-flow-sub-connector.info-flow:before,
 .activity-flow-sub-connector.in-progress-flow:before {
-    @apply border-blue-100;
+    @apply border-green-100;
 }
 
 .ui-combo-box .selected-list a.combo-box-option,
@@ -733,7 +733,7 @@ body[data-theme='dark'] .radio-group-condensed .radio-group-item input[type='rad
 
 .ui-combo-box .options-list a.combo-box-option.selected:hover,
 .ui-combo-box .options-list a.combo-box-option.selected {
-    @apply bg-blue-400;
+    @apply bg-green-400;
 }
 
 body[data-theme='dark'] .ui-combo-box .selected-list a.combo-box-option,
@@ -756,11 +756,11 @@ body[data-theme='dark'] .file-dropzone {
 }
 
 .aside-item-link.active {
-    @apply bg-blue-400 text-white;
+    @apply bg-green-400 text-white;
 }
 
 body[data-theme='dark'] .aside-item-link.active {
-    @apply bg-blue-600;
+    @apply bg-green-600;
 }
 
 body[data-theme='dark'].invite-for-network,
@@ -812,7 +812,7 @@ body[data-theme='dark'] li.iti__country > span {
 }
 
 .ui-input-info {
-    @apply border bg-blue-900 border-blue-800 dark:bg-gray-900 dark:border-gray-800 text-blue-100 px-3 py-1.5 text-sm leading-4 rounded-md shadow-md flex flex-row;
+    @apply border bg-green-900 border-green-800 dark:bg-gray-900 dark:border-gray-800 text-green-100 px-3 py-1.5 text-sm leading-4 rounded-md shadow-md flex flex-row;
 }
 
 .ui-input-info > svg {
@@ -861,11 +861,11 @@ body[data-theme='light'] .ui-input-info.danger {
 }
 
 .anchor-button:hover {
-    @apply outline-offset-2 outline-blue-500;
+    @apply outline-offset-2 outline-green-500;
 }
 
 .anchor-button:hover > div:last-child {
-    @apply text-blue-400;
+    @apply text-green-400;
 }
 
 .anchor-button div {

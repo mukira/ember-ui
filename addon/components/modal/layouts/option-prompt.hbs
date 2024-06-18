@@ -3,7 +3,7 @@
         {{#each @options.promptOptions as |option index|}}
             <div class="flex flex-row items-center bg-gray-100 border-gray-200 px-4 py-2 dark:bg-gray-800 dark:border-gray-700 rounded-lg">
                 <RadioButton
-                    @radioClass="focus:ring-blue-500 mr-3"
+                    @radioClass="focus:ring-green-500 mr-3"
                     @radioId={{concat "option_" index}}
                     @value={{option}}
                     @groupValue={{@options.selected}}

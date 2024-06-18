@@ -7,7 +7,7 @@
 }
 
 .fleetbase-pagination .direction-button:focus {
-    @apply border-blue-300 outline-none outline-offset-0 outline-blue-500;
+    @apply border-green-300 outline-none outline-offset-0 outline-green-500;
 }
 
 .fleetbase-pagination .direction-button:hover {
@@ -24,7 +24,7 @@
 }
 
 .fleetbase-pagination .page-item:focus {
-    @apply z-10 border-blue-300 outline-none outline-offset-0 outline-blue-500;
+    @apply z-10 border-green-300 outline-none outline-offset-0 outline-green-500;
 }
 
 .fleetbase-pagination .page-item:hover {
@@ -41,7 +41,7 @@
 }
 
 .fleetbase-pagination .page-item-arrow:focus {
-    @apply z-10 border-blue-300 outline-none outline-offset-0 outline-blue-500;
+    @apply z-10 border-green-300 outline-none outline-offset-0 outline-green-500;
 }
 
 .fleetbase-pagination .page-item-arrow:hover {

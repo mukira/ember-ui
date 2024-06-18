@@ -57,7 +57,7 @@
 }
 
 .table-wrapper table tbody tr.is-selected td {
-    @apply bg-blue-300 select-none;
+    @apply bg-green-300 select-none;
 }
 
 .table-wrapper table thead tr th {
@@ -177,11 +177,11 @@
 }
 
 [data-theme='dark'] .table-wrapper.table-fluid table tbody tr.is-selected td {
-    @apply text-blue-900 bg-blue-500 border-blue-600;
+    @apply text-green-900 bg-green-500 border-green-600;
 }
 
 [data-theme='dark'] .table-wrapper.table-fluid table tbody tr.is-selected td a {
-    @apply text-blue-900;
+    @apply text-green-900;
 }
 
 [data-theme='dark'] .table-wrapper.table-fluid table thead tr th:hover {
@@ -264,7 +264,7 @@ table .resizer {
 table .resizer.resizer:hover,
 .next-table-wrapper table .resizer.resizing,
 table .resizer.resizing {
-    @apply border-r-4 border-solid border-blue-500 border-opacity-60;
+    @apply border-r-4 border-solid border-green-500 border-opacity-60;
 }
 
 body[data-theme='dark'] .table-wrapper.table-fluid > .next-table-wrapper > table > tbody > tr.expandable-row.is-expanded > td,
@@ -273,7 +273,7 @@ body[data-theme='dark'] .table-wrapper.table-fluid > .next-table-wrapper > table
 .next-table-wrapper table > tbody > tr.expandable-row:hover > td,
 table > tbody > tr.expandable-row.is-expanded > td,
 table > tbody > tr.expandable-row:hover > td {
-    @apply bg-blue-500 text-blue-900 border-y border-blue-600;
+    @apply bg-green-500 text-green-900 border-y border-green-600;
 }
 
 body[data-theme='dark'] .next-table-wrapper > table.is-expandable > tbody > tr.expandable-row:nth-child(even) > td {

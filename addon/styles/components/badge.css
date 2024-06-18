@@ -79,7 +79,7 @@
 }
 
 .status-badge.low-status-badge > span svg {
-    @apply text-blue-400;
+    @apply text-green-400;
 }
 
 .status-badge.medium-status-badge > span svg {
@@ -142,13 +142,13 @@
 .status-badge.approved-status-badge > span,
 .status-badge.info-status-badge > span,
 .status-badge.in-progress-status-badge > span {
-    @apply text-blue-900 bg-blue-300;
+    @apply text-green-900 bg-green-300;
 }
 
 .status-badge.approved-status-badge > span svg,
 .status-badge.info-status-badge > span svg,
 .status-badge.in-progress-status-badge > span svg {
-    @apply text-blue-900;
+    @apply text-green-900;
 }
 
 .status-badge.default-status-badge > span {
@@ -205,7 +205,7 @@ body[data-theme='dark'] .status-badge:not(.shadow-none) {
 
 .status-element.info-status-element,
 .status-element.in-progress-status-element {
-    @apply border-blue-300;
+    @apply border-green-300;
 }
 
 .status-element.published-status-element,
@@ -248,7 +248,7 @@ body[data-theme='dark'] .status-badge:not(.shadow-none) {
 .status-element.approved-status-element,
 .status-element.info-status-element,
 .status-element.in-progress-status-element {
-    @apply text-blue-900 bg-blue-300;
+    @apply text-green-900 bg-green-300;
 }
 
 .org-badge {

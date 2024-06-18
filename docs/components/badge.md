@@ -23,13 +23,13 @@ An example of using the `status-badge` component in an Ember application:
 
 ```Javascript
 
-<StatusBadge @status="IN_PROGRESS" @spanClass="bg-blue-100 text-blue-800" @hideStatusDot={{true}} @disableHumanize={{true}} @helpText="This task is currently in progress." @exampleText="Please wait."></StatusBadge>
+<StatusBadge @status="IN_PROGRESS" @spanClass="bg-green-100 text-green-800" @hideStatusDot={{true}} @disableHumanize={{true}} @helpText="This task is currently in progress." @exampleText="Please wait."></StatusBadge>
 
 ```
 
 In this example, the status-badge component is used to display a status badge for a task in progress. 
 
-The badge has a blue background with blue text, and the dot inside the badge is hidden. 
+The badge has a green background with green text, and the dot inside the badge is hidden. 
 
 The status string is not humanized and is displayed as "IN_PROGRESS". 
 

@@ -234,28 +234,28 @@ a.btn.btn-black:active,
 a.btn.btn-secondary,
 .fc-button.btn-secondary,
 .ui-full-calendar .fc-button.btn-secondary {
-    @apply text-blue-500 bg-blue-100 border-blue-300 shadow-sm;
+    @apply text-green-500 bg-green-100 border-green-300 shadow-sm;
 }
 
 .btn.btn-secondary:hover:not(:disabled),
 a.btn.btn-secondary:hover:not(:disabled),
 .fc-button.btn-secondary:hover:not(:disabled),
 .ui-full-calendar .fc-button.btn-secondary:hover:not(:disabled) {
-    @apply bg-blue-50;
+    @apply bg-green-50;
 }
 
 .btn.btn-secondary:focus,
 a.btn.btn-secondary:focus,
 .fc-button.btn-secondary:focus,
 .ui-full-calendar .fc-button.btn-secondary:focus {
-    @apply border-blue-300 outline-0;
+    @apply border-green-300 outline-0;
 }
 
 .btn.btn-secondary:active,
 a.btn.btn-secondary:active,
 .fc-button.btn-secondary:active,
 .ui-full-calendar .fc-button.btn-secondary:active {
-    @apply bg-blue-200;
+    @apply bg-green-200;
 }
 
 .btn.btn-danger,
@@ -386,7 +386,7 @@ button.integrated-vendor-button,
 
 button.integrated-vendor-button.selected,
 .integrated-vendor-button.selected {
-    @apply border-blue-500 outline-offset-2 outline-blue-500;
+    @apply border-green-500 outline-offset-2 outline-green-500;
 }
 
 button.integrated-vendor-button:focus,
@@ -487,7 +487,7 @@ body[data-theme='dark'] .integrated-vendor-button {
 
 body[data-theme='dark'] button.integrated-vendor-button.selected,
 body[data-theme='dark'] .integrated-vendor-button.selected {
-    @apply border-blue-500 outline-offset-2 outline-blue-500;
+    @apply border-green-500 outline-offset-2 outline-green-500;
 }
 
 body[data-theme='dark'] button.integrated-vendor-button:focus,

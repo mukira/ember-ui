@@ -35,7 +35,7 @@ You can also pass a block to the Input Group component to customize the input el
 ```hbs
 
 <div class="max-w-md">
-    <InputGroup @name="Email" @required={{true}} @wrapperClass="mb-3" @inputClass="border-gray-300 focus:border-blue-500 focus:ring-2 focus:ring-blue-200 rounded-md shadow-sm" />
+    <InputGroup @name="Email" @required={{true}} @wrapperClass="mb-3" @inputClass="border-gray-300 focus:border-green-500 focus:ring-2 focus:ring-green-200 rounded-md shadow-sm" />
 </div>
 
 
