@@ -23,7 +23,7 @@ export default class MoneyInputComponent extends Component {
         let whois = this.currentUser.getOption('whois');
 
         this.value = this.args.value ?? 0;
-        this.currency = this.args.currency ?? whois?.currency?.code ?? 'USD';
+        this.currency = this.args.currency ?? whois?.currency?.code ?? 'KES';
         this.currencyData = getCurrency(this.currency);
     }
 
