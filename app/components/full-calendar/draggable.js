@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/full-calendar/draggable';
+export { default } from '@lipagas/ember-ui/components/full-calendar/draggable';

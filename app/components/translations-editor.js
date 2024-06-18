@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/translations-editor';
+export { default } from '@lipagas/ember-ui/components/translations-editor';

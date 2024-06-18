@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/helpers/in-array';
+export { default } from '@lipagas/ember-ui/helpers/in-array';

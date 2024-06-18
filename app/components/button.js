@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/button';
+export { default } from '@lipagas/ember-ui/components/button';

@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/country-name';
+export { default } from '@lipagas/ember-ui/components/country-name';

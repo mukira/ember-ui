@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/helpers/first-char';
+export { default } from '@lipagas/ember-ui/helpers/first-char';

@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/helpers/truncate-filename';
+export { default } from '@lipagas/ember-ui/helpers/truncate-filename';

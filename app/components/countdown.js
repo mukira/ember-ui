@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/countdown';
+export { default } from '@lipagas/ember-ui/components/countdown';

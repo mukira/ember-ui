@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/utils/get-int';
+export { default } from '@lipagas/ember-ui/utils/get-int';

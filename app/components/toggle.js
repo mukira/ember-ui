@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/toggle';
+export { default } from '@lipagas/ember-ui/components/toggle';

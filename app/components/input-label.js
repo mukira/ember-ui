@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/input-label';
+export { default } from '@lipagas/ember-ui/components/input-label';

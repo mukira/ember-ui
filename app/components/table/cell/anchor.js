@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/table/cell/anchor';
+export { default } from '@lipagas/ember-ui/components/table/cell/anchor';

@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/modifiers/set-container-dimensions';
+export { default } from '@lipagas/ember-ui/modifiers/set-container-dimensions';

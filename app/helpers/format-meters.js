@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/helpers/format-meters';
+export { default } from '@lipagas/ember-ui/helpers/format-meters';

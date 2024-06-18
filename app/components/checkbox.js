@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/checkbox';
+export { default } from '@lipagas/ember-ui/components/checkbox';

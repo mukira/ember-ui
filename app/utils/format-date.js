@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/utils/format-date';
+export { default } from '@lipagas/ember-ui/utils/format-date';

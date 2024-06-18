@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/modifiers/imask';
+export { default } from '@lipagas/ember-ui/modifiers/imask';

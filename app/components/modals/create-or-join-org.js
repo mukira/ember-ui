@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/modals/create-or-join-org';
+export { default } from '@lipagas/ember-ui/components/modals/create-or-join-org';

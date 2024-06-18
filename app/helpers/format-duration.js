@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/helpers/format-duration';
+export { default } from '@lipagas/ember-ui/helpers/format-duration';

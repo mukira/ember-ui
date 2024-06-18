@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/utils/get-active-url-param';
+export { default } from '@lipagas/ember-ui/utils/get-active-url-param';

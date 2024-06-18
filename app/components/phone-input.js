@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/phone-input';
+export { default } from '@lipagas/ember-ui/components/phone-input';

@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/content-panel';
+export { default } from '@lipagas/ember-ui/components/content-panel';

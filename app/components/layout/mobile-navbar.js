@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/layout/mobile-navbar';
+export { default } from '@lipagas/ember-ui/components/layout/mobile-navbar';

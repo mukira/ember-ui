@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/install-prompt';
+export { default } from '@lipagas/ember-ui/components/install-prompt';

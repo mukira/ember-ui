@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/modifiers/background-url';
+export { default } from '@lipagas/ember-ui/modifiers/background-url';

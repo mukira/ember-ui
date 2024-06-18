@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/basic-dropdown-hover';
+export { default } from '@lipagas/ember-ui/components/basic-dropdown-hover';

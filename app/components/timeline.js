@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/timeline';
+export { default } from '@lipagas/ember-ui/components/timeline';

@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/modals/bulk-delete-model';
+export { default } from '@lipagas/ember-ui/components/modals/bulk-delete-model';

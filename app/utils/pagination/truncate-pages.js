@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/utils/pagination/truncate-pages';
+export { default } from '@lipagas/ember-ui/utils/pagination/truncate-pages';

@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/combo-box';
+export { default } from '@lipagas/ember-ui/components/combo-box';

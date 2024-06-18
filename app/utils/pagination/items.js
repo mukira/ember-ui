@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/utils/pagination/items';
+export { default } from '@lipagas/ember-ui/utils/pagination/items';

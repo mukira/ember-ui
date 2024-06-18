@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/chat-window/feed';
+export { default } from '@lipagas/ember-ui/components/chat-window/feed';

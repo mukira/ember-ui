@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/table/column-group';
+export { default } from '@lipagas/ember-ui/components/table/column-group';

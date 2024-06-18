@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/modifiers/fallback-img-src';
+export { default } from '@lipagas/ember-ui/modifiers/fallback-img-src';

@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/coordinates-input';
+export { default } from '@lipagas/ember-ui/components/coordinates-input';

@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/spacer';
+export { default } from '@lipagas/ember-ui/components/spacer';

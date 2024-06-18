@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/aside-item-scroller/item';
+export { default } from '@lipagas/ember-ui/components/aside-item-scroller/item';

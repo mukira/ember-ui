@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/table/wrap';
+export { default } from '@lipagas/ember-ui/components/table/wrap';

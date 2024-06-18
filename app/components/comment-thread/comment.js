@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/comment-thread/comment';
+export { default } from '@lipagas/ember-ui/components/comment-thread/comment';

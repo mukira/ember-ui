@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/attach/popover';
+export { default } from '@lipagas/ember-ui/components/attach/popover';

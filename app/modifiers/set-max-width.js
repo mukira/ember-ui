@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/modifiers/set-max-width';
+export { default } from '@lipagas/ember-ui/modifiers/set-max-width';

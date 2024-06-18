@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/utils/deprecate-subclassing';
+export { default } from '@lipagas/ember-ui/utils/deprecate-subclassing';

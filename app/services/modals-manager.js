@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/services/modals-manager';
+export { default } from '@lipagas/ember-ui/services/modals-manager';

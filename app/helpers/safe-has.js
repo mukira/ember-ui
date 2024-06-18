@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/helpers/safe-has';
+export { default } from '@lipagas/ember-ui/helpers/safe-has';

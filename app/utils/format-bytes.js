@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/utils/format-bytes';
+export { default } from '@lipagas/ember-ui/utils/format-bytes';

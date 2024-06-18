@@ -1,1 +1,1 @@
-export { default, initialize } from '@fleetbase/ember-ui/initializers/define-task-test-waiter-modifier';
+export { default, initialize } from '@lipagas/ember-ui/initializers/define-task-test-waiter-modifier';

@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/overlay/body';
+export { default } from '@lipagas/ember-ui/components/overlay/body';

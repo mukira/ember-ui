@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/modal/layouts/confirm';
+export { default } from '@lipagas/ember-ui/components/modal/layouts/confirm';

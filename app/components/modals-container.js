@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/modals-container';
+export { default } from '@lipagas/ember-ui/components/modals-container';

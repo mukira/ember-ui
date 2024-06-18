@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/helpers/transition-to';
+export { default } from '@lipagas/ember-ui/helpers/transition-to';

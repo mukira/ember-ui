@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/image';
+export { default } from '@lipagas/ember-ui/components/image';

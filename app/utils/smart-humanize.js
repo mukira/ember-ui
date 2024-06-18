@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/utils/smart-humanize';
+export { default } from '@lipagas/ember-ui/utils/smart-humanize';
